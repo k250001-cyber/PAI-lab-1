@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 numbers = []
 n = int(input("How many numbers do you want to enter? "))
 
